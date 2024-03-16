@@ -10,11 +10,18 @@ redirect_from:
 
 <!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).-->
 
-Hi! I'm Deb, a PhD student at [Northeastern University](https://www.northeastern.edu/), Boston in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu).
+<!--Hi! I'm Deb, a PhD student at [Northeastern University](https://www.northeastern.edu/), Boston in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu).-->
+I am Deb, a passionate Ph.D. candidate in Natural Language Processing at [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu), Northeastern University.
+<!--I have dedicated myself to exploring the frontiers of artificial intelligence, with a keen focus on enhancing machine learning models for better data interpretation and user interaction. -->
+I am fascinated by the complex interplay between machine learning models and their real-world applications, particularly in how we interact with and process information digitally.
+My academic journey began with a Bachelor's in Computer Science and Engineering, followed by a Master's, where I specialized in Algorithms and Theoretical Computer Science, laying the groundwork for my current research endeavors. My work aims to bridge the gap between theoretical computer science and practical, real-world applications, particularly in the field of information retrieval and processing.
 
 My work and research
 ======
-Describe research
+My research primarily revolves around developing sophisticated machine learning models to better understand and interpret complex data sets. One of my notable projects includes the creation of advanced eXtreme Multi-label Text Classification (XMTC) models that not only push the frontier of natural language processing but also led to the development of a state-of-the-art Learning to Rank model.
+Through the innovative use of attention mechanisms and transfer learning strategies—such as PLANT (Pretrained and Leveraged AtteNTion)—I've aimed to enhance the efficiency and effectiveness of these models.
+These model stands out for its innovative approach to sorting and recommending content in a way that's highly relevant and personalized, mirroring real-world scenarios where users navigate through vast amounts of information to find what truly interests them. 
+My work aims to bridge theoretical computer science with practical applications, enhancing how automated systems understand, categorize, and deliver content in domains ranging from healthcare to digital entertainment.
 
 <!---
 Getting started
