@@ -15,6 +15,6 @@ On the full MIMIC-III dataset, **Plant** excels in four out of seven metrics and
 Notably, in low-shot scenarios, **Plant** matches traditional attention models' precision despite using significantly less data (1/10 for precision at 5, 1/5 for precision at 15), highlighting its efficiency with skewed label distributions.
 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://debjyotiSRoy.github.io/files/plant.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
