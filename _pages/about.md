@@ -20,7 +20,7 @@ My work and research
 ======
 My research primarily revolves around developing sophisticated machine learning models to better understand and interpret complex data sets. One of my notable projects includes the creation of advanced eXtreme Multi-label Text Classification (XMTC) models that not only push the frontier of natural language processing but also led to the development of a state-of-the-art Learning to Rank model.
 Through the innovative use of attention mechanisms and transfer learning strategies—such as PLANT (Pretrained and Leveraged AtteNTion)—I've aimed to enhance the efficiency and effectiveness of these models.
-These model stands out for its innovative approach to sorting and recommending content in a way that's highly relevant and personalized, mirroring real-world scenarios where users navigate through vast amounts of information to find what truly interests them. 
+These models stand out for their innovative approach to sorting and recommending content in a way that's highly relevant and personalized, mirroring real-world scenarios where users navigate through vast amounts of information to find what truly interests them. 
 My work aims to bridge theoretical computer science with practical applications, enhancing how automated systems understand, categorize, and deliver content in domains ranging from healthcare to digital entertainment.
 
 <!---

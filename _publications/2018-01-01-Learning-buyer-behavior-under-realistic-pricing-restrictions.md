@@ -2,7 +2,7 @@
 title: "Learning Buyer Behavior under Realistic Pricing Restrictions"
 collection: publications
 permalink: /publication/2018-01-01-Learning-buyer-behavior-under-realistic-pricing-restrictions
-excerpt: 'This paper is about buyer-seller interaction in an online setting.'
+excerpt: 'TL;DR: We propose a new algorithm for learning buyer behavior parameters efficiently, adaptable to any price constraints set by the seller. This approach offers practical insights for profit-maximizing pricing strategies, inventory management, and promotion planning.'
 date: 2018-01-01
 venue: 'ISAIM'
 paperurl: 'https://isaim2018.cs.ou.edu/papers/ISAIM2018_ML_Saharoy_Tulabandhula.pdf'
