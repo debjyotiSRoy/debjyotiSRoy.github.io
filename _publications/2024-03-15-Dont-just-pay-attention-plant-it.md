@@ -8,7 +8,7 @@ TL;DR: In Extreme Multi-Label Text Classification (XMTC), we train a standalone 
 date: 2024-03-15
 venue: 'Preprint'
 paperurl: 'http://debjyotiSRoy.github.io/files/plant.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Your Name, You. (2024). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 Abstract: The keystone of state-of-the-art Extreme Multi-Label Text Classification (XMTC) models is the multi-label attention layer within the decoder, which deftly directs label-specific focus to salient tokens in input text. Nonetheless, the process of acquiring these optimal attention weights is onerous and resource-intensive. To alleviate this strain, we introduce **PLANT** --- **P**retrained and **L**everaged **A**tte**NT**ion --- an innovative transfer learning strategy to fine-tune XMTC decoders. The central notion involves transferring a pretrained learning-to-rank (L2R) model, utilizing its activations as attention weights, thereby serving as the *'planted'* attention layer in the decoder. 
 On the full MIMIC-III dataset, **Plant** excels in four out of seven metrics and surpasses in five for the top-50 code set, demonstrating its effectiveness. Remarkably, for the rare-50 code set, **Plant** achieves a significant 12.7-52.2% improvement in four metrics. On MIMIC-IV, it leads in three metrics. 
@@ -17,4 +17,6 @@ Notably, in low-shot scenarios, **Plant** matches traditional attention models' 
 
 [Download paper here](http://debjyotiSRoy.github.io/files/plant.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Code](https://github.com/debjyotiSRoy/xcube/tree/plant)
+
+Recommended citation: Your Name, You. (2024). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
